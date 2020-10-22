@@ -133,4 +133,28 @@ table {
   background-color: dimgrey;
   width: 350px;
   height: 350px;
+  padding: 5px;
+}
+.output {
+  line-height: 40px;
+  background-color: white;
+  color: black;
+  height: 40px;
+  margin-bottom: 10px;
+  font-size: 1.4em;
+  text-align: right;
+  font-family: monospace;
+  padding: 0 8px;
+}
+
+.btn {
+  width: 50px;
+  height: 50px;
+  padding: 7px;
+  margin: 3px;
+  background-color: azure;
+  text-align: center;
+  cursor: pointer;
+  vertical-align: middle;
+  line-height: 50px;
 }
